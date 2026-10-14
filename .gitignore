@@ -42,3 +42,5 @@ Thumbs.db
 # Editor / tool directories
 .trae/
 .claude/
+.vercel
+.env*

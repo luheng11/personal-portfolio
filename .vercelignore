@@ -1,0 +1,3 @@
+# Express API at the repository root is a long-running server.
+# The leading slash keeps src/api, the frontend client, in the deployment.
+/api
